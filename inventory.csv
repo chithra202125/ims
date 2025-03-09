@@ -1,0 +1,11 @@
+Product ID,Product Name,Category,Price,Stock,Total Sales
+101,Apple,Fruit,1.2,100,50
+102,Banana,Fruit,0.5,150,30
+103,Milk,Dairy,2.0,80,20
+104,Bread,Bakery,1.5,60,15
+105,Eggs,Dairy,3.0,90,40
+106,Rice,Grains,1.8,200,60
+107,Pasta,Grains,2.5,120,50
+108,Tomato,Vegetable,1.0,110,25
+109,Potato,Vegetable,0.8,140,35
+110,Chicken,Meat,5.5,50,20
